@@ -11,6 +11,7 @@ spec:
 
   sourceRepos:
   - 'https://github.com/Ineb01/*'
+  - 'https://charts.bitnami.com/bitnami'
 
   destinations:
   - namespace: wordpress
