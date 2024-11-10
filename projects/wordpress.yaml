@@ -20,3 +20,11 @@ spec:
 
   sourceNamespaces:
   - "argocd"
+
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: wordpress
+  labels:
+    name: wordpress
